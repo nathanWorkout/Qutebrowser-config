@@ -2,7 +2,7 @@
 
 My personal qutebrowser setup - minimal, keyboard-driven, anime-themed startpage.
 
-![startpage](startpage/startpage.png)
+![startpage](startpage/anime-nord.png)
 
 ## Structure
 
